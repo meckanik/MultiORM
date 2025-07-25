@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiORM.Snowflake", "MultiORM.Snowflake\MultiORM.Snowflake.csproj", "{983561BD-C544-DAC9-926A-A629FC73D7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiORM.Unit.Tests", "MultiORM.Unit.Tests\MultiORM.Unit.Tests.csproj", "{3AC6EB8E-B3B2-236D-E319-99D60218BF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983561BD-C544-DAC9-926A-A629FC73D7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983561BD-C544-DAC9-926A-A629FC73D7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983561BD-C544-DAC9-926A-A629FC73D7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983561BD-C544-DAC9-926A-A629FC73D7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC6EB8E-B3B2-236D-E319-99D60218BF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC6EB8E-B3B2-236D-E319-99D60218BF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC6EB8E-B3B2-236D-E319-99D60218BF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC6EB8E-B3B2-236D-E319-99D60218BF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D067CF-1355-445C-9CE8-A8CC830E1790}
+	EndGlobalSection
+EndGlobal
